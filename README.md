@@ -24,6 +24,8 @@ This article aims to gain valuable insight into the credit dataset by performing
 - Model Developmnet and Prediction
 - Model Evaluation
 - Conclusion
+
+Click on the following link to view report [credit_risk.ipynb](credit_risk.ipynb)
   
 ### Reference
 Yiping Hauang, Longmei Zhang, Zhenhua Li, Han Qiu, Tao Sun, and Xue Wang. 2020. Fintech Credit Rist Assessment for SMEs: _Evidence from china, IMF._
