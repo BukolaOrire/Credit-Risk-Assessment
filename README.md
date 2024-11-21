@@ -16,17 +16,15 @@ This article aims to gain valuable insight into the credit dataset by performing
 - Sklearn
 
 ## Table of Content
-- [Introduction](introduction)
-- [Business Problem](business-problem)
-- [Key Performance Metrics](key-performance-metrics)
-- [Data Preparation](data-preparation)
-- [Exploratory Data Analysis](exploratory-data-analysis)
-- [Model Developmnet and Prediction](model-development-and-prediction)
-- [Model Evaluation](model-evaluation)
-- [Conclusion](conclusion)
+- Introduction
+- Business Problem
+- Key Performance Metrics
+- Data Preparation
+- Exploratory Data Analysis
+- Model Developmnet and Prediction
+- Model Evaluation
+- Conclusion
   
-Please click on the following link to view pdf report 
-
 ### Reference
 Yiping Hauang, Longmei Zhang, Zhenhua Li, Han Qiu, Tao Sun, and Xue Wang. 2020. Fintech Credit Rist Assessment for SMEs: _Evidence from china, IMF._
 
