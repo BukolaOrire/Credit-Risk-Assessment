@@ -3,7 +3,7 @@
 
 ## Assessing and mitigating credit default risk at kalar
 
-This article aims to gain valuable insight into the credit dataset by performing an exploratory data analysis, and building a machine learning model to help minimize the likelihood of loan defaults.
+This article aims to gain valuable insight into the credit dataset by performing exploratory data analysis, and building a machine learning model to help minimize the likelihood of loan defaults.
 
 **_Disclaimer_**: _All datasets and reports do not represent a real company, institution or country, but just a dummy dataset to demonstrate capabilities of python._ Dataset is available for download at https://www.amdari.io/
 
@@ -24,5 +24,10 @@ This article aims to gain valuable insight into the credit dataset by performing
 - [Model Developmnet and Prediction](model-development-and-prediction)
 - [Model Evaluation](model-evaluation)
 - [Conclusion](conclusion)
-
+  
 Please click on the following link to view pdf report 
+
+### Reference
+Yiping Hauang, Longmei Zhang, Zhenhua Li, Han Qiu, Tao Sun, and Xue Wang. 2020. Fintech Credit Rist Assessment for SMEs: _Evidence from china, IMF._
+
+Imaobong Njokko, Amdari. 2023. Credit Risk Assessment using Logistic Regression: _Mastering Precise Creditworthiness._
