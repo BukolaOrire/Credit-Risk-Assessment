@@ -3,7 +3,7 @@
 
 ## Assessing and mitigating credit default risk at kalar
 
-This article aims to gain valuable insight into the credit dataset by building a machine learning model to help minimize the likelihood of loan defaults.
+This article aims to gain valuable insight into the credit dataset by performing an exploratory data analysis, and building a machine learning model to help minimize the likelihood of loan defaults.
 
 **_Disclaimer_**: _All datasets and reports do not represent a real company, institution or country, but just a dummy dataset to demonstrate capabilities of python._ Dataset is available for download at https://www.amdari.io/
 
@@ -12,8 +12,8 @@ This article aims to gain valuable insight into the credit dataset by building a
 - Pandas
 - Matplotlib
 - Seaborn
-- Sklearn
 - Statsmodels
+- Sklearn
 
 ## Table of Content
 - [Introduction](introduction)
