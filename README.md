@@ -18,6 +18,7 @@ This article aims to gain valuable insight into the credit dataset by performing
 ## Table of Content
 - Introduction
 - Business Problem
+- Business Objective
 - Key Performance Metrics
 - Data Preparation
 - Exploratory Data Analysis
