@@ -1,5 +1,6 @@
 # Credit Risk Assessment using Logistic Regression
-![WhatsApp Image 2024-11-19 at 22 24 26_4113ad08](https://github.com/user-attachments/assets/3877a99e-d185-4f90-bf16-ddab5c12a738)
+![WhatsApp Image 2024-11-19 at 21 57 46_6a2d0805](https://github.com/user-attachments/assets/d36337b6-9bad-478e-94e6-828022b52498)
+
 
 ## Assessing and mitigating credit default risk at kalar
 
